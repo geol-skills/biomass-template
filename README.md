@@ -20,7 +20,7 @@ code and analysis over the course.
 
 1. **Clone** this repo using GitHub Desktop (you should have done this
    already — if not, see the
-   [pre-term preparation guide](https://geol-methods.github.io/materials/preparation.html)).
+   [pre-term preparation guide](https://geol-skills.github.io/materials/preparation.html)).
 
 2. **Each week**, create a new `.R` file (e.g. `week2.R`, `week3.R`)
    and paste in the code you've written during the session. You can
@@ -47,10 +47,10 @@ code and analysis over the course.
 ## Course site
 
 All exercises, hints, and solutions are on the course website:
-**[geol-methods.github.io](https://geol-methods.github.io/)**
+**[geol-skills.github.io](https://geol-skills.github.io/)**
 
 ## Help with Git
 
 If something goes wrong with Git or GitHub Desktop, check the
-[Git troubleshooting guide](https://geol-methods.github.io/materials/git-troubleshooting.html)
+[Git troubleshooting guide](https://geol-skills.github.io/materials/git-troubleshooting.html)
 on the course site.
