@@ -34,7 +34,7 @@ code and analysis over the course.
    - Click **Commit to main**, then **Push origin**.
 
 4. **Weeks 3–4**: you'll write your policy briefing in this repo, in
-   Markdown, as `briefing.md`, with its figures in `figure/`. You set
+   Markdown, as `briefing.md`, with its figures in `figures/`. You set
    the file up in Week 3 and write it in Week 4; your classmates then
    review it via GitHub Issues.
 
@@ -43,7 +43,7 @@ code and analysis over the course.
 - [ ] Week 1: `week1.R` — data exploration and first plots
 - [ ] Week 2: `week2.R` — ggplot2 figures for the biomass case
 - [ ] Week 3: `week3.R` — scenario analysis (changing the assumptions);
-      `figure/` and a `briefing.md` skeleton
+      `figures/` and a `briefing.md` skeleton
 - [ ] Week 4: `briefing.md` — your policy briefing
 
 ## Course site
