@@ -1,7 +1,7 @@
 # Biomass Mini-Project Data
 
-These datasets support the Weeks 1–4 biomass mini-project: "Is UK
-biomass electricity carbon-neutral?"
+These datasets support the Weeks 1–4 biomass mini-project: "Does UK
+biomass power help reach net zero, and should we keep paying for it?"
 
 ## Files
 

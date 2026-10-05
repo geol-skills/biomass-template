@@ -27,13 +27,13 @@ body:
     attributes:
       label: Argues
       description: |
-        What conclusion does the briefing reach? This is separate from
+        What does the briefing recommend for UK biomass power? This is separate from
         whether you trust it: an honest briefing and a traitor's can reach
         the same conclusion.
       options:
-        - CARBON-NEUTRAL
-        - NOT-CARBON-NEUTRAL
-        - MIXED
+        - KEEP-OR-EXPAND
+        - KEEP-ONLY-WITH-CCS
+        - PHASE-OUT
     validations:
       required: true
 
