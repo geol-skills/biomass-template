@@ -112,9 +112,8 @@ body:
         be read aloud, unattributed.
       placeholder: >-
         What did this briefing do well? Which sentence, figure or number was
-        most persuasive? If you suspected a traitor and still found yourself
-        half-convinced, say what did it. If you agreed with the conclusion
-        before you started reading, say that too: it matters.
+        most persuasive? Did the briefing reinforce / challenge what you thought
+        before you started reading?
     validations:
       required: true
 
