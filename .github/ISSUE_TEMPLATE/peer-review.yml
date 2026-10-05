@@ -7,7 +7,7 @@ body:
       value: |
         Read the whole briefing before you start. Your **Verdict** and
         **Argues** answers are read by a script that builds the class
-        results shown in the reveal: there is no separate vote.
+        results.
 
   - type: dropdown
     id: verdict
