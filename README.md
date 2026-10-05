@@ -33,16 +33,18 @@ code and analysis over the course.
      or "Add scenario analysis for transport emissions".
    - Click **Commit to main**, then **Push origin**.
 
-4. **Week 4**: you'll write your policy briefing in this repo (as a
-   `.qmd`, `.md`, or `.docx` file) and your classmates will review it
-   via GitHub Issues.
+4. **Weeks 3–4**: you'll write your policy briefing in this repo, in
+   Markdown, as `briefing.md`, with its figures in `figure/`. You set
+   the file up in Week 3 and write it in Week 4; your classmates then
+   review it via GitHub Issues.
 
 ## Weekly checklist
 
 - [ ] Week 1: `week1.R` — data exploration and first plots
 - [ ] Week 2: `week2.R` — ggplot2 figures for the biomass case
-- [ ] Week 3: `week3.R` — scenario analysis (changing the assumptions)
-- [ ] Week 4: `briefing.qmd` (or `.md` / `.docx`) — your policy briefing
+- [ ] Week 3: `week3.R` — scenario analysis (changing the assumptions);
+      `figure/` and a `briefing.md` skeleton
+- [ ] Week 4: `briefing.md` — your policy briefing
 
 ## Course site
 
