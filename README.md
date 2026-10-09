@@ -12,7 +12,6 @@ code and analysis over the course.
 │   ├── pellet_imports.csv   # UK wood pellet imports by country of origin
 │   ├── emission_factors.csv # CO₂ emission factors under different assumptions
 │   └── README.md            # Data dictionary
-├── week1.R                  # Starter file for Week 1
 └── README.md                # This file
 ```
 
@@ -22,9 +21,9 @@ code and analysis over the course.
    already — if not, see the
    [pre-term preparation guide](https://geol-skills.github.io/materials/preparation.html)).
 
-2. **Each week**, create a new `.R` file (e.g. `week2.R`, `week3.R`)
-   and paste in the code you've written during the session. You can
-   also copy code from the WebR exercises on the course site.
+2. **Each week**, click *Export all code* on the exercise page of the
+   course site. Move the downloaded `.R` file (e.g. `week1.R`) from
+   your Downloads folder into this repo's folder.
 
 3. **Commit and push** at the end of every session:
    - In GitHub Desktop, you'll see your changed files listed.
