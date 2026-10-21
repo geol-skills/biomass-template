@@ -50,7 +50,7 @@ FAS (earlier year estimates).
 
 ### `emission_factors.csv`
 
-CO₂ emission factors by fuel and carbon accounting scenario. 12 rows.
+CO₂ emission factors by fuel and carbon accounting scenario. 9 rows.
 
 | Column | Description |
 |--------|-------------|
@@ -60,8 +60,17 @@ CO₂ emission factors by fuel and carbon accounting scenario. 12 rows.
 | `notes` | What is included in this estimate |
 
 The biomass rows show how the answer changes depending on what you
-include: from 0 (official accounting) to 390 (full supply chain) to
-somewhere in between (depending on forest regrowth time). This is the
-"assumptions knob" for Week 3 scenario analysis.
+include: from 0 (official accounting) to 1000 (the chimney) to 1060
+(full supply chain). This is the "assumptions knob" for Week 3
+scenario analysis.
+
+### `forest_growth.csv` and `fraction_reabsorbed.R`
+
+Carbon held by a stand of trees, by age since planting (t C per
+hectare): loblolly pine from US Forest Service tables (Smith *et al.*
+2006), Sitka spruce from the UK Woodland Carbon Code.
+`fraction_reabsorbed(years, forest, felled_at)` uses it to work out how
+much of a felled stand's carbon a replanted one has taken back. Load it
+with `source("data/fraction_reabsorbed.R")`.
 
 For full source details, see the course site data documentation.
