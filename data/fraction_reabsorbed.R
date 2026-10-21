@@ -4,9 +4,9 @@
 # forest:    one of the `forest` values in data/forest_growth.csv
 # felled_at: age of the stand when it was felled, in years
 #
-# Returns carbon in the new stand at `years` divided by carbon in the old
-# stand at `felled_at`: 0 at felling, 1 when the new stand holds as much
-# as the old one did. It keeps rising past 1 if the new stand outgrows the
+# Returns carbon in the new stand at `years`, divided by carbon in the old
+# stand at `felled_at`. This rises from 0 (at felling), to 1 when the new stand
+# holds as much as the old one did, and higher, if the new stand outgrows the
 # old. Ages between the table's 5-year steps are interpolated along a
 # straight line; ages beyond the table give NA.
 fraction_reabsorbed <- function(years, forest, felled_at) {
